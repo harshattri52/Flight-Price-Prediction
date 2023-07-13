@@ -1,5 +1,5 @@
 Flight fare prediction is a classical problem of time series forecasting that finds trends in past observations to outline the future
-• Many popular flight booking websites toilay, including Google Flights, showcase important insights on:
+• Many popular flight booking websites today, including Google Flights, showcase important insights on:
 • Current fair status: high, low or fair
 • Past fare trends, upcoming future trends and
 • Helps decide the right time to book a flight ticket.
